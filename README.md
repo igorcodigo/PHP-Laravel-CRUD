@@ -1,3 +1,7 @@
+<!-- repos-pai:inicio -->
+> **Repositório pai:** [`Projetos_Em_Inatividade__Arquivos_Inativos_Por_Ano__2024`](https://github.com/igorcodigo/Projetos_Em_Inatividade__Arquivos_Inativos_Por_Ano__2024) — pasta `Projetos_Em_Inatividade/Arquivos_Inativos_Por_Ano/2024`
+<!-- repos-pai:fim -->
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
